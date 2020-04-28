@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutLyric</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="this_new_lyric_guessing_game_tests_how_well_you_know_the_words_to_your_favourite_songs_or_music_generally_from_lewis_capaldi_to_atomic_kitten_this_app_features_songs_for_everyone">This new lyric guessing game tests how well you know the words to your favourite songs or music generally. From Lewis Capaldi to Atomic Kitten, this app features songs for everyone.</string>
+    <string name="lyric_helps_you_to_boost_your_music_knowledge_and_play_competitively_with_friends_or_family_to_see_reigns_as_the_music_champion">Lyric helps you to boost your music knowledge and play competitively with friends or family to see reigns as the music champion!</string>
+    <string name="features_and_benefits">featuresandbenefits</string>
+    <string name="button">Button</string>
+    <string name="Boast_your_music_knowledge_by_correctly_guessing_the_missing_lyrics">Boast_your_music_knowledge_by_correctly_guessing_the_missing_lyrics</string>
+    <string name="download_now">download now</string>
+</resources>
